@@ -1,0 +1,36 @@
+[main] DEBUG cadenaLlenado.Boton - Dato almacenado en la variable estado: on
+[main] INFO  cadenaLlenado.Boton - Cinta en funcionamiento.
+[main] DEBUG cadenaLlenado.Boton - Dato guardado en variable llenadoTipo: mixto
+[main] DEBUG cadenaLlenado.ControlMixto - Sabor fresa: 1 carmelo.
+[Sabor menta] DEBUG cadenaLlenado.ControlMixto - Sabor menta: 1 carmelo.
+[main] DEBUG cadenaLlenado.ControlMixto - Sabor fresa: 2 carmelo.
+[Sabor menta] DEBUG cadenaLlenado.ControlMixto - Sabor menta: 2 carmelo.
+[Sabor menta] DEBUG cadenaLlenado.ControlMixto - Sabor menta: 3 carmelo.
+[main] DEBUG cadenaLlenado.ControlMixto - Sabor fresa: 3 carmelo.
+[Sabor menta] DEBUG cadenaLlenado.ControlMixto - Sabor menta: 4 carmelo.
+[main] DEBUG cadenaLlenado.ControlMixto - Sabor fresa: 4 carmelo.
+[Sabor menta] DEBUG cadenaLlenado.ControlMixto - Sabor menta: 5 carmelo.
+[main] DEBUG cadenaLlenado.ControlMixto - Sabor fresa: 5 carmelo.
+[main] INFO  cadenaLlenado.Boton - Termina el proceso de llenado.
+[main] DEBUG cadenaLlenado.Boton - Dato almacenado en la variable estado: off
+[main] INFO  cadenaLlenado.Boton - Cinta apagada. Salimos de la aplicación.
+[main] DEBUG cadenaLlenado.Boton - Dato almacenado en la variable estado: 2
+[main] WARN  cadenaLlenado.Boton - Error al encender/apagar la cinta. Salimos de la aplicación.
+[main] DEBUG cadenaLlenado.Boton - Dato almacenado en la variable estado: on
+[main] INFO  cadenaLlenado.Boton - Cinta en funcionamiento.
+[main] DEBUG cadenaLlenado.Boton - Dato guardado en variable llenadoTipo: sabor
+[main] DEBUG cadenaLlenado.ControlSabores - Caramelo Sabor fresa.: 1
+[main] DEBUG cadenaLlenado.ControlSabores - Caramelo Sabor fresa.: 2
+[main] DEBUG cadenaLlenado.ControlSabores - Caramelo Sabor fresa.: 3
+[main] DEBUG cadenaLlenado.ControlSabores - Caramelo Sabor fresa.: 4
+[main] DEBUG cadenaLlenado.ControlSabores - Caramelo Sabor fresa.: 5
+[Thread-0] DEBUG cadenaLlenado.ControlSabores - Caramelo menta: 1
+[Thread-0] DEBUG cadenaLlenado.ControlSabores - Caramelo menta: 2
+[Thread-0] DEBUG cadenaLlenado.ControlSabores - Caramelo menta: 3
+[Thread-0] DEBUG cadenaLlenado.ControlSabores - Caramelo menta: 4
+[Thread-0] DEBUG cadenaLlenado.ControlSabores - Caramelo menta: 5
+[main] INFO  cadenaLlenado.Boton - Termina el proceso de llenado.
+[main] DEBUG cadenaLlenado.Boton - Dato almacenado en la variable estado: on
+[main] INFO  cadenaLlenado.Boton - Cinta en funcionamiento.
+[main] DEBUG cadenaLlenado.Boton - Dato guardado en variable llenadoTipo: 4
+[main] INFO  cadenaLlenado.Boton - Cerramos la cinta de llenado.
